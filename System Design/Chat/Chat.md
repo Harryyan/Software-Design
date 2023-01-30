@@ -1,25 +1,25 @@
-# 设计一个Chat App
-
+# 设计Chat App
 
 ## Clarification
 
-1.  用户数量，避免错误认为是DDoS攻击 (1 million active  user per month)
+1. 用户数量，避免错误认为是DDoS攻击 (1 million active  user per month)
 2. 目标市场：发达国家的流量成本和质量好于发展中国家；语言支持
 
 ## Functional Features
 
-1.  Chats list sorted by dates
-2. Open 1-1 chat and receive and send message
+1. Chats list sorted by dates
+2. Open 1-1 chat and send and reveive message
 3. Photo attachments support for chats
 4. Message status(sending, send/failed,received) and read receipts
 
-## Non functional
-1.  Ofline support
+## Non-functional features
+
+1. Offline Support
 2. Secure message saved
 3. Real time notification
 
 
-## Out of scope
+## Out of Scope
 
 1. edit and delete message
 2. group chats
