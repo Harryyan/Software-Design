@@ -21,15 +21,14 @@
 
 ## Out of Scope
 
-1. edit and delete message
-2. group chats
-3. sign up or sign in
+1. Edit and Delete message
+2. Group Chats
+3. Sign up or Sign in
 
 
 ## High level diagram
 
 ![](https://res.cloudinary.com/dwpjzbyux/image/upload/v1651458313/SystemDesign/chat/chat_fdub6t.svg)
-
 
 
 ## Deep Dive: Api Service
