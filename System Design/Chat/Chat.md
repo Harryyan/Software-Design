@@ -26,12 +26,12 @@
 3. Sign up or Sign in
 
 
-## High level diagram
+## High Level Diagram
 
 ![](https://res.cloudinary.com/dwpjzbyux/image/upload/v1651458313/SystemDesign/chat/chat_fdub6t.svg)
 
 
-## Deep Dive: Api Service
+## Deep Dive: Api Services
 
 1. Bi-directional Communication Layer
 2. HTTP-based layer
